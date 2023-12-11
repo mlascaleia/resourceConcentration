@@ -1,0 +1,126 @@
+1,ACENI,Acer nigrum,Plantae,Sapindaceae,Acer,nigrum,,NULL,Black Maple,NULL,NULL,NULL,NULL,NULL,NULL
+2,ACEPE,Acer pensylvanicum,Plantae,Sapindaceae,Acer,pensylvanicum,,NULL,Striped Maple,NULL,NULL,NULL,NULL,NULL,NULL
+3,ACERU,Acer rubrum,Plantae,Sapindaceae,Acer,rubrum,,NULL,Red Maple,NULL,NULL,NULL,NULL,NULL,NULL
+4,ACESA,Acer saccharum,Plantae,Sapindaceae,Acer,saccharum,,NULL,Sugar Maple,NULL,NULL,NULL,NULL,NULL,NULL
+5,ACEXX,Acer,Plantae,Sapindaceae,Acer,,,NULL,Maple,NULL,NULL,NULL,NULL,NULL,NULL
+6,AMEAR,Amelanchier arborea,Plantae,Rosaceae,Amelanchier,arborea,,NULL,Common Serviceberry,NULL,NULL,NULL,NULL,NULL,NULL
+7,AMECA,Amelanchier canadensis,Plantae,Rosaceae,Amelanchier,canadensis,,NULL,Canadian Serviceberry,NULL,NULL,NULL,NULL,NULL,NULL
+8,AMEXX,Amelanchier,Plantae,Rosaceae,Amelanchier,,,NULL,Serviceberry,NULL,NULL,NULL,NULL,NULL,NULL
+9,BERTH,Berberis thunbergii,Plantae,Berberidaceae,Berberis,thunbergii,,NULL,Japanese Barberry,NULL,NULL,NULL,NULL,NULL,NULL
+10,BETAL,Betula alleghaniensis,Plantae,Betulaceae,Betula,alleghaniensis,,NULL,Yellow Birch,NULL,NULL,NULL,NULL,NULL,NULL
+11,BETLE,Betula lenta,Plantae,Betulaceae,Betula,lenta,,NULL,Black Birch,NULL,NULL,NULL,NULL,NULL,NULL
+12,BETPA,Betula papyrifera,Plantae,Betulaceae,Betula,papyrifera,,NULL,Paper Birch,NULL,NULL,NULL,NULL,NULL,NULL
+13,BETPO,Betula populifolia,Plantae,Betulaceae,Betula,populifolia,,NULL,Grey Birch,NULL,NULL,NULL,NULL,NULL,NULL
+14,BETXX,Betula,Plantae,Betulaceae,Betula,,,NULL,Birch,NULL,NULL,NULL,NULL,NULL,NULL
+15,CARCA,Carpinus caroliniana,Plantae,Betulaceae,Carpinus,caroliniana,,NULL,Musclewood,NULL,NULL,NULL,NULL,NULL,NULL
+16,CARCO,Carya cordiformis,Plantae,Juglandaceae,Carya,cordiformis,,NULL,Bitternut Hickory,NULL,NULL,NULL,NULL,NULL,NULL
+17,CARGL,Carya glabra,Plantae,Juglandaceae,Carya,glabra,,NULL,Pignut Hickory,NULL,NULL,NULL,NULL,NULL,Including Carya ovalis
+18,CAROV,Carya ovata,Plantae,Juglandaceae,Carya,ovata,,NULL,Shagbark Hickory,NULL,NULL,NULL,NULL,NULL,NULL
+19,CARTO,Carya tomentosa,Plantae,Juglandaceae,Carya,tomentosa,,NULL,Mockernut Hickory,NULL,NULL,NULL,NULL,NULL,NULL
+20,CARXX,Carya,Plantae,Juglandaceae,Carya,,,NULL,Hickory,NULL,NULL,NULL,NULL,NULL,NULL
+21,CASDE,Castanea dentata,Plantae,Fagaceae,Castanea,dentata,,NULL,American Chestnut,NULL,NULL,NULL,NULL,NULL,NULL
+22,CELOR,Celastrus orbiculatus,Plantae,Celastraceae,Celastrus,orbiculatus,,NULL,Oriental Bittersweet,NULL,NULL,NULL,NULL,NULL,NULL
+23,CLEAL,Clethra alnifolia,Plantae,Clethraceae,Clethra,alnifolia,,NULL,Sweet Pepperbush,NULL,NULL,NULL,NULL,NULL,NULL
+24,CORFL,Cornus florida,Plantae,Cornaceae,Cornus,florida,,NULL,Flowering Dogwood,NULL,NULL,NULL,NULL,NULL,"FNA uses Swida instead of Cornus, but this is not the consensus"
+25,CORSE,Cornus sericea,Plantae,Cornaceae,Cornus,sericea,,NULL,Red Osier Dogwood,NULL,NULL,NULL,NULL,NULL,"FNA uses Swida instead of Cornus, but this is not the consensus"
+26,CORNX,Cornus,Plantae,Cornaceae,Cornus,,,NULL,Dogwood,NULL,NULL,NULL,NULL,NULL,"FNA uses Swida instead of Cornus, but this is not the consensus"
+27,CORAM,Corylus americana,Plantae,Betulaceae,Corylus,americana,,NULL,American Hazelnut,NULL,NULL,NULL,NULL,NULL,NULL
+28,CORCO,Corylus cornuta,Plantae,Betulaceae,Corylus,cornuta,,NULL,Beaked Hazelnut,NULL,NULL,NULL,NULL,NULL,NULL
+29,CORYX,Corylus,Plantae,Betulaceae,Corylus,,,NULL,Hazelnut,NULL,NULL,NULL,NULL,NULL,NULL
+30,CRAXX,Crataegus,Plantae,Rosaceae,Crataegus,,,NULL,Hawthorn,NULL,NULL,NULL,NULL,NULL,NULL
+31,ELAAN,Elaeagnus angustifolia,Plantae,Elaeagnaceae,Elaeagnus,angustifolia,,NULL,Russian Olive,NULL,NULL,NULL,NULL,NULL,NULL
+32,ELAUM,Elaeagnus umbellata,Plantae,Elaeagnaceae,Elaeagnus,umbellata,,NULL,Autumn Olive,NULL,NULL,NULL,NULL,NULL,NULL
+33,EUOAL,Euonymus alatus,Plantae,Celastraceae,Euonymus,alatus,,NULL,Burning Bush,NULL,NULL,NULL,NULL,NULL,NULL
+34,EUOFO,Euonymus fortunei,Plantae,Celastraceae,Euonymus,fortunei,,NULL,Winter Creeper,NULL,NULL,NULL,NULL,NULL,NULL
+35,FAGGR,Fagus grandifolia,Plantae,Fagaceae,Fagus,grandifolia,,NULL,American Beech,NULL,NULL,NULL,NULL,NULL,NULL
+36,FRAAM,Fraxinus americana,Plantae,Oleaceae,Fraxinus,americana,,NULL,White Ash,NULL,NULL,NULL,NULL,NULL,NULL
+37,FRANI,Fraxinus nigra,Plantae,Oleaceae,Fraxinus,nigra,,NULL,Black Ash,NULL,NULL,NULL,NULL,NULL,NULL
+38,FRAPE,Fraxinus pennsylvanica,Plantae,Oleaceae,Fraxinus,pennsylvanica,,NULL,Green Ash,NULL,NULL,NULL,NULL,NULL,NULL
+39,FRAXX,Fraxinus,Plantae,Oleaceae,Fraxinus,,,NULL,Ash,NULL,NULL,NULL,NULL,NULL,NULL
+40,GAYBA,Gaylussacia baccata,Plantae,Ericaceae,Gaylussacia,baccata,,NULL,Black Huckleberry,NULL,NULL,NULL,NULL,NULL,NULL
+41,GAYFR,Gaylussacia frondosa,Plantae,Ericaceae,Gaylussacia,frondosa,,NULL,Blue Huckleberry,NULL,NULL,NULL,NULL,NULL,NULL
+42,GAYXX,Gaylussacia,Plantae,Ericaceae,Gaylussacia,,,NULL,Huckleberry,NULL,NULL,NULL,NULL,NULL,NULL
+43,HAMVI,Hamamelis virginiana,Plantae,Hamamelidaceae,Hamamelis,virginiana,,NULL,Witch Hazel,NULL,NULL,NULL,NULL,NULL,NULL
+44,ILEVE,Ilex verticillata,Plantae,Aquifoliaceae,Ilex,verticillata,,NULL,Winterberry,NULL,NULL,NULL,NULL,NULL,NULL
+45,ILEXX,Ilex,Plantae,Aquifoliaceae,Ilex,,,NULL,Holly,NULL,NULL,NULL,NULL,NULL,NULL
+46,KALLA,Kalmia latifolia,Plantae,Ericaceae,Kalmia,latifolia,,NULL,Mountain Laurel,NULL,NULL,NULL,NULL,NULL,NULL
+47,LINBE,Lindera benzoin,Plantae,Lauraceae,Lindera,benzoin,,NULL,Northern Spicebush,NULL,NULL,NULL,NULL,NULL,NULL
+48,LIRTU,Liriodendron tulipifera,Plantae,Magnoliaceae,Liriodendron,tulipifera,,NULL,Tulip Poplar,NULL,NULL,NULL,NULL,NULL,NULL
+49,LYOLI,Lyonia ligustrina,Plantae,Ericaceae,Lyonia,ligustrina,,NULL,Maleberry,NULL,NULL,NULL,NULL,NULL,NULL
+50,NYSSY,Nyssa sylvatica,Plantae,Cornaceae,Nyssa,sylvatica,,NULL,Blackgum,NULL,NULL,NULL,NULL,NULL,NULL
+51,OSTVI,Ostrya virginiana,Plantae,Betulaceae,Ostrya,virginiana,,NULL,Hop Hornbeam,NULL,NULL,NULL,NULL,NULL,NULL
+52,PARQU,Parthenocissus quinquefolia,Plantae,Vitaceae,Parthenocissus,quinquefolia,,NULL,Virginia Creeper,NULL,NULL,NULL,NULL,NULL,NULL
+53,PICGL,Picea glauca,Plantae,Pinaceae,Picea,glauca,,NULL,White Spruce,NULL,NULL,NULL,NULL,NULL,NULL
+54,PINRE,Pinus resinosa,Plantae,Pinaceae,Pinus,resinosa,,NULL,Red Pine,NULL,NULL,NULL,NULL,NULL,NULL
+55,PINRI,Pinus rigida,Plantae,Pinaceae,Pinus,rigida,,NULL,Pitch Pine,NULL,NULL,NULL,NULL,NULL,NULL
+56,PINST,Pinus strobus,Plantae,Pinaceae,Pinus,strobus,,NULL,White Pine,NULL,NULL,NULL,NULL,NULL,NULL
+57,PINXX,Pinus,Plantae,Pinaceae,Pinus,,,NULL,Pine,NULL,NULL,NULL,NULL,NULL,NULL
+58,POPDE,Populus deltoides,Plantae,Salicaceae,Populus,deltoides,,NULL,Cottonwood,NULL,NULL,NULL,NULL,NULL,NULL
+59,POPTR,Populus tremuloides,Plantae,Salicaceae,Populus,tremuloides,,NULL,Quaking Aspen,NULL,NULL,NULL,NULL,NULL,NULL
+60,PRUSE,Prunus serotina,Plantae,Rosaceae,Prunus,serotina,,NULL,Black Cherry,NULL,NULL,NULL,NULL,NULL,NULL
+61,PRUVI,Prunus virginiana,Plantae,Rosaceae,Prunus,virginiana,,NULL,Choke Cherry,NULL,NULL,NULL,NULL,NULL,NULL
+62,QUEAL,Quercus alba,Plantae,Fagaceae,Quercus,alba,,NULL,White Oak,NULL,NULL,NULL,NULL,NULL,NULL
+63,QUEBI,Quercus bicolor,Plantae,Fagaceae,Quercus,bicolor,,NULL,Swamp White Oak,NULL,NULL,NULL,NULL,NULL,NULL
+64,QUECO,Quercus coccinea,Plantae,Fagaceae,Quercus,coccinea,,NULL,Scarlet Oak,NULL,NULL,NULL,NULL,NULL,NULL
+65,QUEMO,Quercus montana,Plantae,Fagaceae,Quercus,montana,,NULL,Chestnut Oak,NULL,NULL,NULL,NULL,NULL,NULL
+66,QUEPA,Quercus palustris,Plantae,Fagaceae,Quercus,palustris,,NULL,Pin Oak,NULL,NULL,NULL,NULL,NULL,NULL
+67,QUERU,Quercus rubra,Plantae,Fagaceae,Quercus,rubra,,NULL,Red Oak,NULL,NULL,NULL,NULL,NULL,NULL
+68,QUEVE,Quercus velutina,Plantae,Fagaceae,Quercus,velutina,,NULL,Black Oak,NULL,NULL,NULL,NULL,NULL,NULL
+69,QUEXX,Quercus,Plantae,Fagaceae,Quercus,,,NULL,Oak,NULL,NULL,NULL,NULL,NULL,NULL
+70,RHOPE,Rhododendron periclymenoides,Plantae,Ericaceae,Rhododendron,periclymenoides,,NULL,Pink Azalea,NULL,NULL,NULL,NULL,NULL,NULL
+71,RHOPR,Rhododendron prinophyllum,Plantae,Ericaceae,Rhododendron,prinophyllum,,NULL,Early Azalea,NULL,NULL,NULL,NULL,NULL,NULL
+72,RHOXX,Rhododendron,Plantae,Ericaceae,Rhododendron,,,NULL,Rhododendron,NULL,NULL,NULL,NULL,NULL,NULL
+73,RHOSC,Rhodotypos scandens,Plantae,Rosaceae,Rhodotypos,scandens,,NULL,Jetbead,NULL,NULL,NULL,NULL,NULL,NULL
+74,ROSMU,Rosa multiflora,Plantae,Rosaceae,Rosa,multiflora,,NULL,Multiflora Rose,NULL,NULL,NULL,NULL,NULL,NULL
+75,RUBAL,Rubus allegheniensis,Plantae,Rosaceae,Rubus,allegheniensis,,NULL,Common Blackberry,NULL,NULL,NULL,NULL,NULL,NULL
+76,RUBID,Rubus idaeus,Plantae,Rosaceae,Rubus,idaeus,,NULL,Red Raspberry,NULL,NULL,NULL,NULL,NULL,NULL
+77,RUBOC,Rubus occidentalis,Plantae,Rosaceae,Rubus,occidentalis,,NULL,Black Raspberry,NULL,NULL,NULL,NULL,NULL,NULL
+78,RUBPH,Rubus phoenicolasius,Plantae,Rosaceae,Rubus,phoenicolasius,,NULL,Wineberry,NULL,NULL,NULL,NULL,NULL,NULL
+79,RUBXX,Rubus,Plantae,Rosaceae,Rubus,,,NULL,Blackberry,NULL,NULL,NULL,NULL,NULL,NULL
+80,SASAL,Sassafras albidum,Plantae,Lauraceae,Sassafras,albidum,,NULL,Sassafras,NULL,NULL,NULL,NULL,NULL,NULL
+81,SMIRO,Smilax rotundifolia,Plantae,Smilacaceae,Smilax,rotundifolia,,NULL,Greenbriar,NULL,NULL,NULL,NULL,NULL,NULL
+82,TILAM,Tilia americana,Plantae,Tiliaceae,Tilia,americana,,NULL,Basswood,NULL,NULL,NULL,NULL,NULL,NULL
+83,TOXRA,Toxicodendron radicans,Plantae,Anacardiaceae,Toxicodendron,radicans,,NULL,Poison Ivy,NULL,NULL,NULL,NULL,NULL,NULL
+84,TSUCA,Tsuga canadensis,Plantae,Pinaceae,Tsuga,canadensis,,NULL,Eastern Hemlock,NULL,NULL,NULL,NULL,NULL,NULL
+85,ULMAM,Ulmus americana,Plantae,Ulmaceae,Ulmus,americana,,NULL,American Elm,NULL,NULL,NULL,NULL,NULL,NULL
+86,ULMRU,Ulmus rubra,Plantae,Ulmaceae,Ulmus,rubra,,NULL,Slippery Elm,NULL,NULL,NULL,NULL,NULL,NULL
+87,ULMXX,Ulmus,Plantae,Ulmaceae,Ulmus,,,NULL,Elm,NULL,NULL,NULL,NULL,NULL,NULL
+88,VACAN,Vaccinium angustifolium,Plantae,Ericaceae,Vaccinium,angustifolium,,NULL,Lowbush Blueberry,NULL,NULL,NULL,NULL,NULL,NULL
+89,VACCO,Vaccinium corymbosum,Plantae,Ericaceae,Vaccinium,corymbosum,,NULL,Highbush Blueberry,NULL,NULL,NULL,NULL,NULL,NULL
+90,VACPA,Vaccinium pallidum,Plantae,Ericaceae,Vaccinium,pallidum,,NULL,Hillside Blueberry,NULL,NULL,NULL,NULL,NULL,NULL
+91,VACXX,Vaccinium,Plantae,Ericaceae,Vaccinium,,,NULL,Blueberry,NULL,NULL,NULL,NULL,NULL,NULL
+92,VIBAC,Viburnum acerifolium,Plantae,Adoxaceae,Viburnum,acerifolium,,NULL,Mapleleaf Viburnum,NULL,NULL,NULL,NULL,NULL,NULL
+93,VIBDE,Viburnum dentatum,Plantae,Adoxaceae,Viburnum,dentatum,,NULL,Arrowwood Viburnum,NULL,NULL,NULL,NULL,NULL,NULL
+94,VIBXX,Viburnum,Plantae,Adoxaceae,Viburnum,,,NULL,Viburnum,NULL,NULL,NULL,NULL,NULL,NULL
+95,VITAE,Vitis aestivalis,Plantae,Vitaceae,Vitis,aestivalis,,NULL,Summer Grape,NULL,NULL,NULL,NULL,NULL,NULL
+96,VITLA,Vitis labrusca,Plantae,Vitaceae,Vitis,labrusca,,NULL,Fox Grape,NULL,NULL,NULL,NULL,NULL,NULL
+97,PRUXX,Prunus,Plantae,Rosaceae,Prunus,,,NULL,Cherry,NULL,NULL,NULL,NULL,NULL,NULL
+98,UNKXX,,Plantae,,,,,NULL,Unknown Plant,NULL,NULL,NULL,NULL,NULL,Unknown Plant
+99,AROAR,Aronia arbutifolia,Plantae,Rosaceae,Aronia,arbutifolia,,NULL,Red chokeberry,NULL,NULL,NULL,NULL,NULL,NULL
+100,CORAL,Cornus alternifolia,Plantae,Cornaceae,Cornus,alternifolia,,NULL,Alternate-leaved dogwood,NULL,NULL,NULL,NULL,NULL,"FNA uses Swida instead of Cornus, but this is not the consensus"
+101,SAMNI,Sambucus nigra,Plantae,Adoxaceae,Sambucus,nigra,,NULL,Black Elderberry,NULL,NULL,NULL,NULL,NULL,NULL
+102,LARLA,Larix laricina,Plantae,Pinaceae,Larix,laricina,,NULL,American Larch,NULL,NULL,NULL,NULL,NULL,NULL
+103,ACEPL,Acer platanoides,Plantae,Sapindaceae,Acer,platanoides,,NULL,Norway Maple,NULL,NULL,NULL,NULL,NULL,NULL
+104,AKEQU,Akebia quinata,Plantae,Lardizabalaceae,Akebia,quinata,,NULL,Chocolate Vine,NULL,NULL,NULL,NULL,NULL,NULL
+105,FRAAL,Frangula alnus,Plantae,Rhamnaceae,Frangula,alnus,,NULL,Glossy Buckthorn,NULL,NULL,NULL,NULL,NULL,NULL
+106,LIGVU,Ligustrum vulgare,Plantae,Oleaceae,Ligustrum,vulgare,,NULL,European Privet,NULL,NULL,NULL,NULL,NULL,NULL
+107,CELSC,Celastrus scandens,Plantae,Celastraceae,Celastrus,scandens,,NULL,American Bittersweet,NULL,NULL,NULL,NULL,NULL,NULL
+108,CELOC,Celtis occidentalis,Plantae,Cannabaceae,Celtis,occidentalis,,NULL,Hackberry,NULL,NULL,NULL,NULL,NULL,NULL
+265,JUGCI,Juglans cinerea,Plantae,Juglandaceae,Juglans,cinerea,,NULL,Butternut,NULL,NULL,NULL,NULL,NULL,NULL
+266,JUGNI,Juglans nigra,Plantae,Juglandaceae,Juglans,nigra,,NULL,Black Walnut,NULL,NULL,NULL,NULL,NULL,NULL
+267,VIBLE,Viburnum lentago,Plantae,Adoxaceae,Viburnum,lentago,,NULL,Nannyberry,NULL,NULL,NULL,NULL,NULL,NULL
+268,VIBNU,Viburnum nudum,Plantae,Adoxaceae,Viburnum,nudum,,NULL,Withe-rod,NULL,NULL,NULL,NULL,NULL,NULL
+269,QUEIL,Quercus ilicifolia,Plantae,Fagaceae,Quercus,ilicifolia,,NULL,Scrub Oak,NULL,NULL,NULL,NULL,NULL,NULL
+270,RHACA,Rhamnus cathartica,Plantae,Rhamnaceae,Rhamnus,cathartica,,NULL,Common Buckthorn,NULL,NULL,NULL,NULL,NULL,NULL
+271,MORCA,Morella caroliniensis,Plantae,Myricaceae,Morella,caroliniensis,,NULL,Small Bayberry,NULL,NULL,NULL,NULL,NULL,#NAME?
+272,MALPU,Malus pumila,Plantae,Rosaceae,Malus,pumila,,NULL,Cultivated Apple,NULL,NULL,NULL,NULL,NULL,#NAME?
+273,JUGXX,Juglans,Plantae,Juglandaceae,Juglans,,,NULL,,NULL,NULL,NULL,NULL,NULL,NULL
+274,MALXX,Malus,Plantae,Rosaceae,Malus,,,NULL,,NULL,NULL,NULL,NULL,NULL,NULL
+275,SMIXX,Smilax,Plantae,Smilacaceae,Smilax,,,NULL,,NULL,NULL,NULL,NULL,NULL,NULL
+276,SAMXX,Sambucus,Plantae,Adoxaceae,Sambucus,,,NULL,,NULL,NULL,NULL,NULL,NULL,NULL
+277,SALXX,Salix,Plantae,Salicaceae,Salix,,,NULL,,NULL,NULL,NULL,NULL,NULL,NULL
+323,VIBDI,Viburnum dilatatum,Plantae,Caprifoliaceae,Viburnum,dilatatum,,NULL,Linden arrowwood,NULL,NULL,NULL,NULL,NULL,NULL
+333,DIRPA,Dirca palustris,Plantae,Thymelaeaceae,Dirca,palustris,,NULL,Eastern Leatherwood,NULL,NULL,NULL,NULL,NULL,NULL
+334,JUNVI,Juniperus virginiana,Plantae,Cupressaceae,Juniperus,virginiana,,NULL,Eastern Red Cedar,NULL,NULL,NULL,NULL,NULL,NULL
+335,TOXVE,Toxicodendron vernix,Plantae,Anacardiaceae,Toxicodendron,vernix,,NULL,Poison Sumac,NULL,NULL,NULL,NULL,NULL,NULL
+387,AROME,Aronia melanocarpa,Plantae,Rosaceae,Aronia,melanocarpa,,NULL,Chokeberry,NULL,NULL,NULL,NULL,NULL,NULL

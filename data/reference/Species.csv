@@ -1,0 +1,256 @@
+"109","ACHADI","Achatia distincta","Lepidoptera","Noctuidae","Achatia","distincta",,NULL,"Distinct Quaker","no","no","190.37","118","23",NULL
+"110","ACROBX","Acrobasis","Lepidoptera","Pyralidae","Acrobasis",,,NULL,,"yes",,"0.00","2","1",NULL
+"111","ACRONX","Acronicta","Lepidoptera","Noctuidae","Acronicta",,,NULL,"Dagger Moths","no",,NULL,NULL,NULL,NULL
+"112","ACROAM","Acronicta americana","Lepidoptera","Noctuidae","Acronicta","americana",,NULL,"American Dagger Moth","no","no",NULL,NULL,NULL,NULL
+"113","ACROIN","Acronicta interrupta","Lepidoptera","Noctuidae","Acronicta","interrupta",,NULL,"Interrupted Dagger Moth","no",,"181.30","2","2",NULL
+"114","ACROLA","Acronicta laetifica","Lepidoptera","Noctuidae","Acronicta","laetifica",,NULL,"Pleasant Dagger Moth","no","yes","17.13","3","2","Betulaceae: Carpinus (mostly), Ostrya, Corylus"
+"115","ACROOV","Acronicta ovata","Lepidoptera","Noctuidae","Acronicta","ovata",,NULL,"Ovate Dagger Moth","no","yes",NULL,NULL,NULL,"Fagaceae, especially Quercus alba"
+"116","ALLOEL","Allotria elonympha","Lepidoptera","Erebidae","Allotria","elonympha",,NULL,"False Underwing Moth","no","yes","0.00","1","1","Nyssa specialist"
+"117","ALSOXX","Alsophila","Lepidoptera","Geometridae","Alsophila",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"118","AMPHXX","Amphipyra","Lepidoptera","Noctuidae","Amphipyra",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"119","AMPHPY","Amphipyra pyramidoides","Lepidoptera","Noctuidae","Amphipyra","pyramidoides",,NULL,"Copper Underwing","no","no","188.50","26","11",NULL
+"120","PLAGPU","Plagodis pulveraria","Lepidoptera","Geometridae","Plagodis","pulveraria",,NULL,"American Barred Umber Moth","no",,"54.99","9","2","syn. Anagoga occiduaria"
+"121","ANTEXX","Antepione","Lepidoptera","Geometridae","Antepione",,,NULL,,"no",,"0.00","1","1",NULL
+"122","BAILOP","Baileya ophthalmica","Lepidoptera","Nolidae","Baileya","ophthalmica",,NULL,"Eyed Baileya","no","yes","0.00","4","1","Carpinus, Ostrya"
+"123","BESMXX","Besma","Lepidoptera","Geometridae","Besma",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"124","BESMQU","Besma quercivoraria","Lepidoptera","Geometridae","Besma","quercivoraria",,NULL,"Oak Besma","no","no","190.47","6","6",NULL
+"125","BISTBE","Biston betularia","Lepidoptera","Geometridae","Biston","betularia",,NULL,"Cleft-Headed Looper","no","no","0.00","1","1",NULL
+"126","HYPEBA","Hypena baltimoralis","Lepidoptera","Erebidae","Hypena","baltimoralis",,NULL,"Baltimore Bomolocha","no","yes","0.00","14","1","syn. Bomolocha baltimoralis"
+"127","CALLER","Callophrys eryphon","Lepidoptera","Lycaenidae","Callophrys","eryphon",,NULL,"Western Pine Elfin","no",,NULL,NULL,NULL,NULL
+"128","CALLNI","Callophrys niphon","Lepidoptera","Lycaenidae","Callophrys","niphon",,NULL,"Eastern Pine Elfin","no","yes","0.00","1","1","Pinus"
+"129","CATOXX","Catocala","Lepidoptera","Erebidae","Catocala",,,NULL,"Underwing Moths","no",,"149.79","3","2",NULL
+"130","CATOLI","Catocala lineella","Lepidoptera","Erebidae","Catocala","lineella",,NULL,"Steely Underwing","no","yes","0.00","1","1","Quercus (red oak group)"
+"131","CATOUL","Catocala ultronia","Lepidoptera","Erebidae","Catocala","ultronia",,NULL,"Ultronia Underwing","no","yes","0.00","1","1","Prunus (mostly), Malus, Crataegus, Rosaceae"
+"132","CELALA","Celastrina ladon","Lepidoptera","Lycaenidae","Celastrina","ladon",,NULL,"Spring Azure","no","yes","0.00","1","1",NULL
+"133","CHIOXX","Chionodes","Lepidoptera","Gelechiidae","Chionodes",,,NULL,,"yes",,"0.00","1","1",NULL
+"134","CLADXX","Cladara","Lepidoptera","Geometridae","Cladara",,,NULL,,"no",,"0.00","1","1",NULL
+"135","CLADAT","Cladara atroliturata","Lepidoptera","Geometridae","Cladara","atroliturata",,NULL,"Scribbler Moth","no","no","153.48","31","10",NULL
+"136","CLADLI","Cladara limitaria","Lepidoptera","Geometridae","Cladara","limitaria",,NULL,"Yellow-lined Conifer Looper","no","yes","202.48","49","3","Possibly 2 spp, one on Kalmia/Ericaceae, and another on Tsuga."
+"137","CORYME","Coryphista meadii","Lepidoptera","Geometridae","Coryphista","meadii",,NULL,"Barberry Looper","no","yes","0.00","5","1","Berberis thunbergii"
+"138","COSMCA","Cosmia calami","Lepidoptera","Noctuidae","Cosmia","calami",,NULL,"American Dun-bar","no","yes","128.63","4","4","Fagaceae, especially Quercus alba"
+"139","CROCNO","Crocigrapha normani","Lepidoptera","Noctuidae","Crocigrapha","normani",,NULL,"Normans Quaker","no","no","230.76","70","21",NULL
+"140","CYCLPE","Cyclophora pendulinaria","Lepidoptera","Geometridae","Cyclophora","pendulinaria",,NULL,"Sweetfern Geometer Moth","no",,"0.00","6","1",NULL
+"141","DARAXX","Darapsa","Lepidoptera","Sphingidae","Darapsa",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"142","DARACH","Darapsa choerilus","Lepidoptera","Sphingidae","Darapsa","choerilus",,NULL,"Azalea Sphinx","no","yes","0.00","14","1","Kalmia (mostly), Azalea, Viburnum"
+"143","DRASGR","Drasteria grandirena","Lepidoptera","Erebidae","Drasteria","grandirena",,NULL,"Figure-Seven Moth","no","yes","0.00","2","1","Hamamelis virginiana"
+"144","ECTRCR","Ectropis crepuscularia","Lepidoptera","Geometridae","Ectropis","crepuscularia",,NULL,"Saddleback Looper","no","no","207.79","27","14",NULL
+"145","ENNOXX","Ennomos","Lepidoptera","Geometridae","Ennomos",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"146","ENNOSU","Ennomos subsignaria","Lepidoptera","Geometridae","Ennomos","subsignaria",,NULL,"Ennomos Subsignaria","no","no","191.18","92","18",NULL
+"147","EPIMHO","Epimecis hortaria","Lepidoptera","Geometridae","Epimecis","hortaria",,NULL,"Tulip-Tree Beauty","no","yes","0.00","40","1","Lauraceae, Magnoliaceae (primarily Lindera benzoin)"
+"148","EUGOXX","Eugonobapta","Lepidoptera","Geometridae","Eugonobapta",,,NULL,,,,NULL,NULL,NULL,NULL
+"149","EUPIXX","Eupithecia","Lepidoptera","Geometridae","Eupithecia",,,NULL,"Pugs","no","no","227.00","94","22","Generalists for the most part, especially those w/o names"
+"150","EUPICA","Eupithecia catkin","Lepidoptera","Geometridae","Eupithecia","catkin",,NULL,"Catkin Eupithecia","no",,NULL,NULL,NULL,NULL
+"151","EUPIGR","Eupithecia green","Lepidoptera","Geometridae","Eupithecia","green",,NULL,"Green Eupithecia","no","no",NULL,NULL,NULL,"syn. Eupithecia swettii"
+"152","EUPIIC","Eupithecia icterata","Lepidoptera","Geometridae","Eupithecia","icterata",,NULL,"Tawny speckled pug","no",,"235.41","4","4",NULL
+"153","EUPIMI","Eupithecia miserulata","Lepidoptera","Geometridae","Eupithecia","miserulata",,NULL,"Common Pug","no","no","146.31","7","3",NULL
+"154","EUPIPB","Eupithecia plumbers butt","Lepidoptera","Geometridae","Eupithecia","plumbers butt",,NULL,"Plumber's Butt","no","no",NULL,NULL,NULL,"syn. Eupithecia swettii"
+"155","EUPISP","Eupithecia speedracer","Lepidoptera","Geometridae","Eupithecia","speedracer",,NULL,"Speedracer Eupithecia","no","no",NULL,NULL,NULL,"syn. Eupithecia swettii"
+"156","EUPIVA","Eupithecia variegated","Lepidoptera","Geometridae","Eupithecia","variegated",,NULL,"Variegated Eupithecia","no","no","193.23","92","17",NULL
+"157","EUPSXX","Eupsilia","Lepidoptera","Noctuidae","Eupsilia",,,NULL,,"no",,"208.11","14","7",NULL
+"158","EUPSSC","Eupsilia schweitzeri","Lepidoptera","Noctuidae","Eupsilia","schweitzeri",,NULL,"Schweitzer's Sallow","no","no","316.80","8","8",NULL
+"159","EUTRCL","Eutrapela clemataria","Lepidoptera","Geometridae","Eutrapela","clemataria",,NULL,"Purplish-brown looper","no","no","224.43","45","20",NULL
+"160","GEINXX","Geina","Lepidoptera","Pterophoridae","Geina",,,NULL,,"yes",,NULL,NULL,NULL,NULL
+"161","HETEXX","Heterocampa","Lepidoptera","Notodontidae","Heterocampa",,,NULL,,"no",,"0.00","1","1",NULL
+"162","HETEBI","Heterocampa biundata","Lepidoptera","Notodontidae","Heterocampa","biundata",,NULL,"Wavy-lined Heterocampa","no","no","207.53","7","5",NULL
+"163","HIMEXX","Himella","Lepidoptera","Noctuidae","Himella",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"164","HIMEFI","Himella fidelis","Lepidoptera","Noctuidae","Himella","fidelis",,NULL,"Intractable Quaker","no","no","175.03","84","16","syn: Himella intractata"
+"166","HYDRXX","Hydrelia","Lepidoptera","Geometridae","Hydrelia",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"167","HYDRIN","Hydrelia inornata","Lepidoptera","Geometridae","Hydrelia","inornata",,NULL,"Unadorned Carpet","no","yes",NULL,NULL,NULL,"Betula"
+"168","HYPAXX","Hypagyrtis","Lepidoptera","Geometridae","Hypagyrtis",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"169","HYPAUN","Hypagyrtis unipunctata","Lepidoptera","Geometridae","Hypagyrtis","unipunctata",,NULL,"One-Spotted Variant","no","no","168.91","12","6",NULL
+"170","HYPESC","Hypercompe scribonia","Lepidoptera","Erebidae","Hypercompe","scribonia",,NULL,"Giant Leopard Moth","no","no",NULL,NULL,NULL,"Unlikely to be on woody plants"
+"171","HYPOFU","Hypoprepia fucosa","Lepidoptera","Erebidae","Hypoprepia","fucosa",,NULL,"Painted Lichen Moth","no",,NULL,NULL,NULL,"Lichen feeder"
+"172","IRIDXX","Iridopsis","Lepidoptera","Geometridae","Iridopsis",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"173","IRIDEP","Iridopsis ephyraria","Lepidoptera","Geometridae","Iridopsis","ephyraria",,NULL,"Pale-Winged Gray","no","no","209.89","124","20",NULL
+"174","LAMBXX","Lambdina","Lepidoptera","Geometridae","Lambdina",,,NULL,,"no","no",NULL,NULL,NULL,NULL
+"175","LAMBFE","Lambdina fervidaria","Lepidoptera","Geometridae","Lambdina","fervidaria",,NULL,"Curve-lined Looper ","no","no","154.71","26","8",NULL
+"176","LAMBFI","Lambdina fiscellaria","Lepidoptera","Geometridae","Lambdina","fiscellaria",,NULL,"Hemlock Looper","no","no","228.51","107","17",NULL
+"177","LITHXX","Lithophane","Lepidoptera","Noctuidae","Lithophane",,,NULL,,"no",,"263.87","15","10",NULL
+"178","LITHAN","Lithophane antennata","Lepidoptera","Noctuidae","Lithophane","antennata",,NULL,"Ashen Pinion","no","no","161.62","43","15",NULL
+"179","LITHPE","Lithophane petulca","Lepidoptera","Noctuidae","Lithophane","petulca",,NULL,"Wanton Pinion","no",,NULL,NULL,NULL,NULL
+"180","LOMOXX","Lomographa","Lepidoptera","Geometridae","Lomographa",,,NULL,,"no",,"0.00","1","1",NULL
+"181","LOMOGL","Lomographa glomeraria","Lepidoptera","Geometridae","Lomographa","glomeraria",,NULL,"Gray Spring Moth","no","yes","0.00","2","1","Prunus serotina, probably Rosaceae"
+"182","LYMADI","Lymantria dispar","Lepidoptera","Erebidae","Lymantria","dispar",,NULL,"Gypsy Moth","no","no","229.19","1880","42",NULL
+"183","MACHXX","Machimia","Lepidoptera","Depressariidae","Machimia",,,NULL,,"yes",,NULL,NULL,NULL,NULL
+"184","MACHTE","Machimia tentoriferella","Lepidoptera","Depressariidae","Machimia","tentoriferella",,NULL,"Gold-striped Leaftier","yes","no","209.29","24","10",NULL
+"185","MALAXX","Malacosoma","Lepidoptera","Lasiocampidae","Malacosoma",,,NULL,,"no",,"247.47","2","2",NULL
+"186","MALAAM","Malacosoma americana","Lepidoptera","Lasiocampidae","Malacosoma","americana",,NULL,"Eastern Tent Caterpillar","no","no","205.92","4","4",NULL
+"187","MALADI","Malacosoma disstria","Lepidoptera","Lasiocampidae","Malacosoma","disstria",,NULL,"Forest Tent","no","no","199.53","111","20",NULL
+"188","MELAXX","Melanolophia","Lepidoptera","Geometridae","Melanolophia",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"189","MELACA","Melanolophia canadaria","Lepidoptera","Geometridae","Melanolophia","canadaria",,NULL,"Canadian Melanophia","no","no","217.45","369","32",NULL
+"190","METAXX","Metarranthis","Lepidoptera","Geometridae","Metarranthis",,,NULL,,"no",,"0.00","1","1",NULL
+"191","METAAN","Metarranthis angularia","Lepidoptera","Geometridae","Metarranthis","angularia",,NULL,"Angled Metarranthis Moth","no",,"0.00","3","1",NULL
+"192","MORRXX","Morrisonia","Lepidoptera","Noctuidae","Morrisonia",,,NULL,,"no",,"0.00","1","1",NULL
+"193","MORRCO","Morrisonia confusa","Lepidoptera","Noctuidae","Morrisonia","confusa",,NULL,"Confused Woodgrain","no","no","202.23","129","26",NULL
+"194","MORREV","Morrisonia evicta","Lepidoptera","Noctuidae","Morrisonia","evicta",,NULL,"Bicolored Woodgrain","no",,"22.55","85","4",NULL
+"195","MORRLA","Morrisonia latex","Lepidoptera","Noctuidae","Morrisonia","latex",,NULL,"Fluid Arches","no","no","206.84","11","7","syn. Polia latex"
+"196","NADAGI","Nadata gibbosa","Lepidoptera","Notodontidae","Nadata","gibbosa",,NULL,"Rough Prominent","no","yes","53.64","3","2","Fagaceae, Quercus, but also occasionally Betulaceae, Rosaceae"
+"197","NEMARE","Nematocampa resistaria","Lepidoptera","Geometridae","Nematocampa","resistaria",,NULL,"Filament Bearer","no","no","210.47","68","20",NULL
+"198","NEMOXX","Nemoria","Lepidoptera","Geometridae","Nemoria",,,NULL,,"no","no","0.00","1","1",NULL
+"199","NEMOBI","Nemoria bistriaria","Lepidoptera","Geometridae","Nemoria","bistriaria",,NULL,"Red-Fringed Emerald","no","no","164.98","3","2",NULL
+"200","NOLAXX","Nola","Lepidoptera","Nolidae","Nola",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"201","NOLACL","Nola clethrae","Lepidoptera","Nolidae","Nola","clethrae",,NULL,"Sweet Pepperbush Nola Moth","no","yes","0.00","18","1","Clethra alnifolia"
+"202","NOLATR","Nola triquetrana","Lepidoptera","Nolidae","Nola","triquetrana",,NULL,"Three-spotted Nola","no","yes","0.00","112","1","Hamamelis virginiana"
+"203","ORGYXX","Orgyia","Lepidoptera","Erebidae","Orgyia",,,NULL,,"no","no",NULL,NULL,NULL,NULL
+"204","ORGYLE","Orgyia leucostigma","Lepidoptera","Erebidae","Orgyia","leucostigma",,NULL,"White-Marked Tussock Moth","no","no","188.80","143","18",NULL
+"205","ORTHXX","Orthosia","Lepidoptera","Orthosia","Orthosia",,,NULL,,"no","no","151.42","19","6",NULL
+"206","ORTHHI","Orthosia hibisci","Lepidoptera","Noctuidae","Orthosia","hibisci",,NULL,"Speckled Green Fruitworm","no","no","170.13","14","8",NULL
+"207","ORTHRU","Orthosia rubescens","Lepidoptera","Noctuidae","Orthosia","rubescens",,NULL,"Ruby Quaker","no","no","221.96","141","22",NULL
+"208","PAPIGL","Papilio glaucus","Lepidoptera","Papilionidae","Papilio","glaucus",,NULL,"Eastern Tiger Swallowtal","no","yes","0.00","1","1","Magnoliaceae, Prunus"
+"209","PARABI","Parallelia bistriaris","Lepidoptera","Erebidae","Parallelia","bistriaris",,NULL,"Maple Looper Moth","no","yes","0.00","2","1",NULL
+"210","PEROXX","Pero","Lepidoptera","Geometridae","Pero",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"211","PEROAN","Pero ancetaria","Lepidoptera","Geometridae","Pero","ancetaria",,NULL,"Hubner's Pero","no","no","38.89","2","2",NULL
+"212","PHIGST","Phigalia strigataria","Lepidoptera","Geometridae","Phigalia","strigataria",,NULL,"Small Phigalia","no","no","135.65","16","7",NULL
+"213","PHIGTI","Phigalia titea","Lepidoptera","Geometridae","Phigalia","titea",,NULL,"Half-Wing","no","no","237.87","12","7",NULL
+"214","PHOBAT","Phoberia atomaris","Lepidoptera","Erebidae","Phoberia","atomaris",,NULL,"Common Oak Moth","no","yes","0.00","1","1","Quercus"
+"215","PHYLAM","Phyllodesma americana","Lepidoptera","Lasiocampidae","Phyllodesma","americana",,NULL,"Lappet Moth","no","no","191.58","4","4",NULL
+"216","PLAGXX","Plagodis","Lepidoptera","Geometridae","Plagodis",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"217","PLAGAL","Plagodis alcoolaria","Lepidoptera","Geometridae","Plagodis","alcoolaria",,NULL,"Hollow-Spotted Plagodis","no","no",NULL,NULL,NULL,NULL
+"218","PLAGFE","Plagodis fervidaria","Lepidoptera","Geometridae","Plagodis","fervidaria",,NULL,"Fervid Plagodis","no","no","0.00","1","1",NULL
+"219","PROCXX","Prochoerodes","Lepidoptera","Geometridae","Prochoerodes",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"220","PROCLI","Prochoerodes lineola","Lepidoptera","Geometridae","Prochoerodes","lineola",,NULL,"Large Maple Spanworm","no","no","164.65","17","7",NULL
+"221","PROTPO","Protoboarmia porcelaria","Lepidoptera","Geometridae","Protoboarmia","porcelaria",,NULL,"Porcelain Gray","no","no","0.00","1","1",NULL
+"222","PSAPXX","Psaphida","Lepidoptera","Noctuidae","Psaphida",,,NULL,,"no",,"0.00","1","1",NULL
+"223","PYREXX","Pyreferra","Lepidoptera","Noctuidae","Pyreferra",,,NULL,,"no","yes",NULL,NULL,NULL,NULL
+"224","PYRECI","Pyreferra citrombra","Lepidoptera","Noctuidae","Pyreferra","citrombra",,NULL,"Eyed Mustard Sallow","no","yes","206.45","3","3","Betulaceae, Hamamelis virginiana"
+"225","PYREHE","Pyreferra hesperidago","Lepidoptera","Noctuidae","Pyreferra","hesperidago",,NULL,"Mustard Sallow","no","yes","0.00","50","1","Hamamelis virginiana"
+"226","SATYCA","Satyrium calanus","Lepidoptera","Lycaenidae","Satyrium","calanus",,NULL,"Banded Hairstreak","no",,"195.76","2","2",NULL
+"227","SATYLI","Satyrium liparops","Lepidoptera","Lycaenidae","Satyrium","liparops",,NULL,"Striped Hairstreak","no",,"33.00","15","2","Primarily on Vaccinium, also Prunus serotina, probably Rosaceae"
+"228","SCHIXX","Schizura","Lepidoptera","Notodontidae","Schizura",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"229","SCHIUN","Schizura unicornis","Lepidoptera","Notodontidae","Schizura","unicornis",,NULL,"Unicorn Caterpillar Moth","no","no","0.00","1","1",NULL
+"230","SPERPU","Speranza pustularia","Lepidoptera","Geometridae","Speranza","pustularia",,NULL,"Lesser Maple Spanworm","no","yes","0.00","158","1","Acer rubrum"
+"231","TETRXX","Tetracis","Lepidoptera","Geometridae","Tetracis",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"232","TETRCA","Tetracis cachexiata","Lepidoptera","Geometridae","Tetracis","cachexiata",,NULL,"White Slant-Line","no","no","194.31","5","3",NULL
+"233","ZALEXX","Zale","Lepidoptera","Erebidae","Zale",,,NULL,,"no","no","357.23","20","8",NULL
+"234","ZALEDU","Zale duplicata","Lepidoptera","Erebidae","Zale","duplicata",,NULL,"Pine False Looper","no","yes","0.00","4","1","Pinus"
+"235","ZALEMI","Zale minerea","Lepidoptera","Erebidae","Zale","minerea",,NULL,"Colerful Zale","no",,"236.95","2","2",NULL
+"236","ZALEPH","Zale phaeocapna","Lepidoptera","Erebidae","Zale","phaeocapna",,NULL,,"no","no","129.06","11","4","Corylus, Ostrya, Hamamelis"
+"237","ZANCPR","Zanclognatha protumnusalis","Lepidoptera","Erebidae","Zanclognatha","protumnusalis",,NULL,"Conifer Zanclognatha","no",,"0.00","1","1","dead leaf feeder"
+"238","AGARIS","Agaristinae","Lepidoptera","Noctuidae",,,,NULL,"Forester Moths","no",,NULL,NULL,NULL,NULL
+"239","ARCTII","Arctiidae","Lepidoptera","Erebidae",,,,NULL,"Tiger Moths","no",,NULL,NULL,NULL,NULL
+"240","EREBID","Erebidae","Lepidoptera","Erebidae",,,,NULL,,"no",,NULL,NULL,NULL,NULL
+"241","GELECH","Gelechiidae","Lepidoptera","Gelechiidae",,,,NULL,"Twirler Moths","yes",,NULL,NULL,NULL,NULL
+"242","GEOMET","Geometridae","Lepidoptera","Geometridae",,,,NULL,,"no",,NULL,NULL,NULL,NULL
+"243","LITHOS","Lithosiini","Lepidoptera","Erebidae",,,,NULL,"Lichen Moths","no",,NULL,NULL,NULL,NULL
+"244","LYCAEN","Lycaenidae","Lepidoptera","Lycaenidae",,,,NULL,,"no",,NULL,NULL,NULL,NULL
+"245","MICROL","Microlepidoptera","Lepidoptera",,,,,NULL,,"yes",,NULL,NULL,NULL,NULL
+"246","NOCTUI","Noctuidae","Lepidoptera","Noctuidae",,,,NULL,"Owlet Moths","no",,NULL,NULL,NULL,NULL
+"247","NOLIDA","Nolidae","Lepidoptera","Nolidae",,,,NULL,"Nolid Moths","no",,NULL,NULL,NULL,NULL
+"248","NOTODO","Notodontidae","Lepidoptera","Notodontidae",,,,NULL,"Prominents","no",,NULL,NULL,NULL,NULL
+"249","OECOPH","Oecophoridae","Lepidoptera","Oecophoridae",,,,NULL,,"yes",,NULL,NULL,NULL,NULL
+"250","PIERID","Pieridae","Lepidoptera","Pieridae",,,,NULL,,"no",,NULL,NULL,NULL,NULL
+"251","SPHING","Sphingidae","Lepidoptera","Sphingidae",,,,NULL,,"no",,NULL,NULL,NULL,NULL
+"252","TORTRI","Tortricidae","Lepidoptera","Tortricidae",,,,NULL,,"yes",,NULL,NULL,NULL,NULL
+"253","UNKNXX","Unknown","Lepidoptera",,,,,NULL,,,,NULL,NULL,NULL,NULL
+"254","ZANCXX","Zanclognatha","Lepidoptera","Erebidae","Zanclognatha",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"255","ACROIM","Acronicta impleta","Lepidoptera","Noctuidae","Acronicta","impleta",,NULL,"Yellow-haired Dagger Moth","no","no",NULL,NULL,NULL,NULL
+"256","ACRORE","Acronicta retardata","Lepidoptera","Noctuidae","Acronicta","retardata",,NULL,"Retarded Dagger Moth","no","yes",NULL,NULL,NULL,NULL
+"257","ALSOPO","Alsophila pometaria","Lepidoptera","Geometridae","Alsophila","pometaria",,NULL,"Fall Cankerworm","no","no","132.69","5","3",NULL
+"258","CATOIL","Catocala ilia","Lepidoptera","Erebidae","Catocala","ilia",,NULL,"Ilia Underwing","no","yes",NULL,NULL,NULL,"Quercus"
+"259","DRYORU","Dryocampa rubicunda","Lepidoptera","Saturniidae","Dryocampa","rubicunda",,NULL,"Rosy Maple Moth","no","yes",NULL,NULL,NULL,NULL
+"260","EUGONI","Eugonobapta nivosaria","Lepidoptera","Geometridae","Eugonobapta","nivosaria",,NULL,,"no","no","244.81","2","2",NULL
+"261","LITHBE","Lithophane bethunei","Lepidoptera","Noctuidae","Lithophane","bethunei",,NULL,"Bethunes Pinion","no","no",NULL,NULL,NULL,NULL
+"262","HETEGU","Heterocampa guttivitta","Lepidoptera","Notodontidae","Heterocampa","guttivitta",,NULL,"Saddled Prominent","no","no","197.24","4","4",NULL
+"263","PANOXX","Panopoda","Lepidoptera","Erebidae","Panopoda",,,NULL,,"no",,"0.00","1","1",NULL
+"264","IRIDLA","Iridopsis larvaria","Lepidoptera","Geometridae","Iridopsis","larvaria",,NULL,"Bent-line Gray","no","no","0.00","1","1",NULL
+"278","DOLBHY","Dolba hyloeus","Lepidoptera","Sphingidae","Dolba","hyloeus",,NULL,"Pawpaw Sphinx","no","yes","0.00","2","1","Ilex"
+"279","PERIAN","Peridea angulosa","Lepidoptera","Phalerinae","Peridea","angulosa",,NULL,"Angulose Prominent","no","yes","0.00","1","1","Fagaceae, Quercus"
+"280","ACLELO","Acleris logiana","Lepidoptera","Tortricidae","Acleris","logiana",,NULL,"Black-headed Birch Leaffolder","yes",,"0.00","1","1",NULL
+"281","ACRONN","Acronicta innotata","Lepidoptera","Noctuidae","Acronicta","innotata",,NULL,"Birch Dagger","no","yes","0.00","1","1","Mostly Betulaceae, especially Betula"
+"282","ANTAOS","Antaeotricha osseella","Lepidoptera","Depressariidae","Antaeotricha","osseella",,NULL,,"yes","yes","0.00","1","1",NULL
+"283","ARCHGR","Archips grisea","Lepidoptera","Tortricidae","Archips","grisea",,NULL,"Black Shield Leafroller","yes",,"169.00","4","4",NULL
+"284","ARCHPU","Archips purpurana","Lepidoptera","Tortricidae","Archips","purpurana",,NULL,"Omnivorous Leafroller","yes","no","0.00","1","1",NULL
+"285","ARGYJU","Argyrotaenia juglandana","Lepidoptera","Tortricidae","Argyrotaenia","juglandana",,NULL,"Hickory Leafroller","yes",,NULL,NULL,NULL,NULL
+"286","ARGYQU","Argyrotaenia quercifoliana","Lepidoptera","Tortricidae","Argyrotaenia","quercifoliana",,NULL,"Yellow-winged Oak Leafroller","yes",,"137.89","6","4",NULL
+"287","CENODI","Cenopis diluticostana","Lepidoptera","Tortricidae","Cenopis","diluticostana",,NULL,"Spring Dead-leaf Roller","yes",,"238.39","14","7","syn. Sparganothis diluticostana"
+"288","CENOME","Cenopis mesospila","Lepidoptera","Tortricidae","Cenopis","mesospila",,NULL,"White-tailed Fruitworm","yes",,"0.00","1","1",NULL
+"289","CENONI","Cenopis niveana","Lepidoptera","Tortricidae","Cenopis","niveana",,NULL,"Aproned Cenopis","yes",,"55.93","7","2",NULL
+"290","CHORRO","Choristoneura rosaceana","Lepidoptera","Tortricidae","Choristoneura","rosaceana",,NULL,"Rosaceous Leafroller","yes",,"170.68","21","9",NULL
+"291","DICHVA","Dichomeris vacciniella","Lepidoptera","Gelechiidae","Dichomeris","vacciniella",,NULL,,"yes","yes","0.00","1","1","Vaccinium"
+"292","EUPICO","Eupithecia columbiata","Lepidoptera","Geometridae","Eupithecia","columbiata",,NULL,,"no","no","225.00","12","10",NULL
+"293","EUPIJE","Eupithecia jejunata","Lepidoptera","Geometridae","Eupithecia","jejunata",,NULL,,"no",,"188.99","4","3",NULL
+"294","EUPISW","Eupithecia swettii","Lepidoptera","Geometridae","Eupithecia","swettii",,NULL,,"no","no","185.96","129","26",NULL
+"295","IDIAAM","Idia americalis","Lepidoptera","Erebidae","Idia","americalis",,NULL,"American Idia Moth","no",,NULL,NULL,NULL,"Dead leaves, lichens"
+"296","NITEMA","Nites maculatella","Lepidoptera","Depressariidae","Nites","maculatella",,NULL,,"yes","yes","0.00","10","1",NULL
+"297","NITEOS","Nites ostryella","Lepidoptera","Depressariidae","Nites","ostryella",,NULL,,"yes","yes","25.70","2","2",NULL
+"298","ORTHAL","Orthosia alurina","Lepidoptera","Noctuidae","Orthosia","alurina",,NULL,"Gray Quaker","no","no",NULL,NULL,NULL,NULL
+"299","PAMMPE","Pammene perstructana","Lepidoptera","Tortricidae","Pammene","perstructana",,NULL,,"yes",,"0.00","1","1","syn. Pammene signifera. Likely specialist (DLW)"
+"300","PANDLA","Pandemis lamprosana","Lepidoptera","Tortricidae","Pandemis","lamprosana",,NULL,"Woodgrain Leafroller","yes",,"202.84","12","7",NULL
+"301","PANDLI","Pandemis limitata","Lepidoptera","Tortricidae","Pandemis","limitata",,NULL,"Three-lined Leafroller","yes",,"0.00","1","1",NULL
+"302","PHAEQU","Phaeoura quernaria","Lepidoptera","Geometridae","Phaeoura","quernaria",,NULL,"Oak Beauty","no","no","0.00","1","1",NULL
+"303","PROBAM","Probole amicaria","Lepidoptera","Geometridae","Probole","amicaria",,NULL,"Friendly Probole","no",,"0.00","1","1",NULL
+"304","PSEUCO","Pseudexentera costomaculana","Lepidoptera","Tortricidae","Pseudexentera","costomaculana",,NULL,,"yes","yes","0.00","39","1","Hamamelis. Tends towards late June, later than P. virginiana"
+"305","SELEKE","Selenia kentaria","Lepidoptera","Geometridae","Selenia","kentaria",,NULL,"Kent's Geometer","no","no","0.00","1","1",NULL
+"306","VENUCO","Venusia comptaria","Lepidoptera","Geometridae","Venusia","comptaria",,NULL,"Brown-shaded Carpet","no",,"6.00","16","2",NULL
+"307","LITHHE","Lithophane hemina","Lepidoptera","Noctuidae","Lithophane","hemina",,NULL,"Hemina Pinion","no",,NULL,NULL,NULL,NULL
+"308","REDEVI","Redectis vitrea","Lepidoptera","Erebidae","Redectis","vitrea",,NULL,"White-spotted Redectis","no",,"0.00","1","1",NULL
+"309","SERISI","Sericaglaea signata","Lepidoptera","Noctuidae","Sericaglaea","signata",,NULL,"Variable Sallow","no","no","237.16","2","2",NULL
+"310","COLOPR","Colocasia propinquilinea","Lepidoptera","Noctuidae","Colocasia","propinquilinea",,NULL,"Closebanded Yellowhorn","no",,NULL,NULL,NULL,NULL
+"311","POLYIN","Polygonia interrogationis","Lepidoptera","Nymphalidae","Polygonia","interrogationis",,NULL,"Question Mark","no","yes","0.00","1","1","Ulmus, Celtis"
+"312","DREPAR","Drepana arcuata","Lepidoptera","Drepanidae","Drepana","arcuata",,NULL,"Arched Hooktip","no","yes","0.00","1","1","Betulaceae"
+"313","ACROSU","Acronicta superans","Lepidoptera","Noctuidae","Acronicta","superans",,NULL,"Splendid Dagger","no",,"0.00","1","1",NULL
+"314","EGIRAL","Egira alternans","Lepidoptera","Noctuidae","Egira","alternans",,NULL,"Alternate Woodling","no","no","0.00","1","1",NULL
+"315","ZALEHE","Zale helata","Lepidoptera","Erebidae","Zale","helata",,NULL,"Brown-spotted Zale","no","yes","0.00","3","1","Pinus"
+"316","CELAAR","Celastrina argiolus","Lepidoptera","Lycaenidae","Celastrina","argiolus",,NULL,"Holly Blue","no",,"0.00","1","1",NULL
+"317","ACROLO","Acronicta lobeliae","Lepidoptera","Noctuidae","Acronicta","lobeliae",,NULL,"Lobelia Dagger Moth","no","yes","0.00","1","1","Quercus"
+"318","ELAPVE","Elaphria versicolor","Lepidoptera","Noctuidae","Elaphria","versicolor",,NULL,"Variegated Midget","no",,"0.00","2","1",NULL
+"319","ORTHFL","Orthofidonia flavivenata BOLD:AAC5338","Lepidoptera","Geometridae","Orthofidonia","flavivenata",,"BOLD:AAC5338","Yellow-veined Geometer Moth","no","yes","0.00","2","1","Viburnum"
+"320","CHAETR","Chaetaglaea tremula","Lepidoptera","Noctuidae","Chaetaglaea","tremula",,NULL,"Trembling Sallow","no",,"0.00","2","1",NULL
+"321","PYREPE","Pyreferra pettiti","Lepidoptera","Noctuidae","Pyreferra","pettiti",,NULL,,"no","yes","0.00","2","1","Ostrya"
+"322","HERPXX","Herpetogramma","Lepidoptera","Crambidae","Herpetogramma",,,NULL,,"yes",,NULL,NULL,NULL,NULL
+"324","CLEOSU","Cleora sublunaria","Lepidoptera","Geometridae","Cleora","sublunaria",,NULL,"Double-lined Gray Moth","no","no","0.00","1","1",NULL
+"325","LITHIN","Lithophane innominata","Lepidoptera","Noctuidae","Lithophane","innominata",,NULL,"Nameless Pinion","no","no",NULL,NULL,NULL,NULL
+"326","OPERBR","Operophtera bruceata","Lepidoptera","Geometridae","Operophtera","bruceata",,NULL,"Bruce Spanworm","no","no","0.00","1","1",NULL
+"327","PHYLXX","Phyllodesma","Lepidoptera","Lasiocampidae","Phyllodesma",,,NULL,,"no",,NULL,NULL,NULL,NULL
+"328","SATYXX","Satyrium","Lepidoptera","Lycaenidae","Satyrium",,,NULL,,"no",,"0.00","1","1",NULL
+"329","PYRALI","Pyralidae","Lepidoptera","Pyralidae",,,,NULL,,"yes",,NULL,NULL,NULL,NULL
+"330","OLETXX","Olethreutes","Lepidoptera","Tortricidae","Olethreutes",,,NULL,,"yes",,"0.00","1","1",NULL
+"331","CATOAN","Catocala andromedae","Lepidoptera","Erebidae","Catocala","andromedae",,NULL,"Gloomy Underwing","no","yes","0.00","1","1","Vaccinium, Azalea"
+"332","CATOGR","Catocala gracilis","Lepidoptera","Erebidae","Catocala","gracilis",,NULL,"Graceful Underwing","no","yes","0.00","1","1","Vaccinium, Ericaceae"
+"336","EPISAR","Episimus argutana","Lepidoptera","Tortricidae","Episimus","argutana",,NULL,"Sumac Leaftier Moth","yes","no","0.00","3","1","Rhus, Hamamelis, Euphorbia. Functionally a specialist with our sampling."
+"337","ACLECH","Acleris chalybeana","Lepidoptera","Tortricidae","Acleris","chalybeana",,NULL,"Lesser Maple Leafroller","yes","no","0.00","3","1",NULL
+"338","ACLECO","Acleris comandrana","Lepidoptera","Tortricidae","Acleris","comandrana",,NULL,,"yes",,"0.00","1","1","Bugguide larval host: bastard toadflax, bog rosemary"
+"339","ACROCA","Acrobasis carpinivorella BOLD:ACE8773","Lepidoptera","Pyralidae","Acrobasis","carpinivorella",,"BOLD:ACE8773",,"yes","yes","32.05","4","2","Carpinus (corylus)"
+"340","AETHIN","Aethalura intertexta","Lepidoptera","Geometridae","Aethalura","intertexta",,NULL,"Four-barred Gray ","no",,"0.00","2","1",NULL
+"341","ARGYVE","Argyrotaenia velutinana","Lepidoptera","Tortricidae","Argyrotaenia","velutinana",,NULL,"Red-banded Leafroller","yes","no","181.22","3","2",NULL
+"342","CALOXX","Caloptilia","Lepidoptera","Gracillariidae","Caloptilia",,,NULL,,"yes",,"0.00","1","1","leaf miner"
+"343","CALOSU","Caloptilia superbifrontella","Lepidoptera","Gracillariidae","Caloptilia","superbifrontella",,NULL,,"yes","yes","0.00","1","1","Hamamelis. Leaf miner"
+"344","CELALU","Celastrina lucia BOLD:ACF0806","Lepidoptera","Lycaenidae","Celastrina","lucia",,"BOLD:ACF0806","Lucia Azure","no","yes","0.00","1","1","Vaccinium"
+"345","CENODF","Cenopis directana-ferreana BOLD:AAB7926","Lepidoptera","Tortricidae","Cenopis","directana-ferreana",,"BOLD:AAB7926",,"yes","no","235.55","4","4",NULL
+"346","CENOPE","Cenopis pettitana","Lepidoptera","Tortricidae","Cenopis","pettitana",,NULL,"Maple-Basswood Leafroller","yes","no","129.72","2","2",NULL
+"347","CHIOPE","Chionodes pereyra BOLD:AAF3315","Lepidoptera","Gelechiidae","Chionodes","pereyra",,"BOLD:AAF3315",,"yes",,"228.46","3","3","Host listed as Quercus (bugguide, Marquis et al), but we have found on Hamamelis and Betula"
+"348","CHIOSO","Chionodes soter BOLD:AAF3316","Lepidoptera","Gelechiidae","Chionodes","soter",,"BOLD:AAF3316",,"yes",,"0.00","1","1","Host listed as Quercus (wikipedia)"
+"349","CHIOTH","Chionodes thoraceochrella BOLD:AAA4438","Lepidoptera","Gelechiidae","Chionodes","thoraceochrella",,"BOLD:AAA4438",,"yes","no","237.16","2","2",NULL
+"350","COLEAT","Coleotechnites atrupictella","Lepidoptera","Gelechiidae","Coleotechnites","atrupictella",,NULL,,"yes",,"0.00","1","1","Supposed to feed on conifers"
+"351","COLOFL","Colocasia flavicornis","Lepidoptera","Noctuidae","Colocasia","flavicornis",,NULL,"Yellowhorn","no","no","0.00","1","1",NULL
+"352","DICHLI","Dichomeris ligulella","Lepidoptera","Gelechiidae","Dichomeris","ligulella",,NULL,"Palmerworm Moth","yes","no","173.75","3","3",NULL
+"353","EUPSMV","Eupsilia morrisoni-vinulenta BOLD:AAB4640","Lepidoptera","Noctuidae","Eupsilia","morrisoni-vinulenta",,"BOLD:AAB4640",,"no",,"0.00","1","1",NULL
+"354","GRETAD","Gretchena amatana-deludana BOLD:AAA6261","Lepidoptera","Tortricidae","Gretchena","amatana-deludana",,"BOLD:AAA6261",,"yes",,"0.00","1","1","Host: deludana = Cary illinoinensis, amatana = unknown. We found it on CARCA"
+"355","HERPTH","Herpetogramma thestealis","Lepidoptera","Crambidae","Herpetogramma","thestealis",,NULL,"Zigzag Herpetogramma","yes",,"0.00","2","1",NULL
+"356","HOMOXX","Homochlodes","Lepidoptera","Geometridae","Homochlodes",,,NULL,,"no",,"0.00","1","1","Contaminant, fern feeder"
+"357","LAMBAF","Lambdina aff. fervidaria BOLD:ACK2293","Lepidoptera","Geometridae","Lambdina","aff. Fervidaria",,"BOLD:ACK2293",,"no",,"0.00","1","1",NULL
+"358","LITHHB","Lithophane hemina-bethunei BOLD:AAB1070","Lepidoptera","Noctuidae","Lithophane","hemina-bethunei",,"BOLD:AAB1070",,"no","no","209.24","12","8",NULL
+"359","LITHIP","Lithophane innominata-petulca BOLD:ACE4172","Lepidoptera","Noctuidae","Lithophane","innominata-petulca",,"BOLD:ACE4172",,"no","no","0.00","1","1",NULL
+"360","MELASI","Melanolophia signataria","Lepidoptera","Geometridae","Melanolophia","signataria",,NULL,"Signate Melanolophia","no","no","179.93","4","4",NULL
+"361","METAN1","Metarranthis n. sp. BOLD:AAP3529","Lepidoptera","Geometridae","Metarranthis","n. sp. BOLD:AAP3529",,"BOLD:AAP3529",,"no",,"0.00","1","1",NULL
+"362","NITEAT","Nites atrocapitella BOLD:AAI5794","Lepidoptera","Depressariidae","Nites","atrocapitella",,"BOLD:AAI5794",,"yes","yes","0.00","1","1",NULL
+"363","PHAENI","Phaecasiophora niveiguttana","Lepidoptera","Tortricidae","Phaecasiophora","niveiguttana",,NULL,"Labyrinth Moth","yes","no","0.00","1","1",NULL
+"364","PLATEX","Platynota exasperatana","Lepidoptera","Tortricidae","Platynota","exasperatana",,NULL,"Exasperating Platynota","yes",,"0.00","1","1",NULL
+"365","PSAPRO","Psaphida rolandi","Lepidoptera","Noctuidae","Psaphida","rolandi",,NULL,"Roland's Sallow","no",,"0.00","2","1",NULL
+"366","PSEUAH","Pseudexentera aff. haracana BOLD:AAA7132","Lepidoptera","Tortricidae","Pseudexentera","aff. haracana BOLD:AAA7132",,"BOLD:AAA7132",,"yes","yes","0.00","1","1","Likely specialist on Ilex"
+"367","PSEUCR","Pseudexentera cressoniana","Lepidoptera","Tortricidae","Pseudexentera","cressoniana",,NULL,"Shagbark Hickory Leafroller","yes","yes","0.00","1","1","Carya ovata"
+"368","PSEUVA","Pseudexentera vaccinii BOLD:ACE4081","Lepidoptera","Tortricidae","Pseudexentera","vaccinii",,"BOLD:ACE4081",,"yes","yes","26.85","4","2","Ericaceae, especially Vaccinium. In BOLD as P. oregonana, many misIDs"
+"369","PSEUVI","Pseudexentera virginiana","Lepidoptera","Tortricidae","Pseudexentera","virginiana",,NULL,,"yes","yes","0.00","15","1","Hamamelis. Tends towards early June, earlier than P. costomaculana"
+"370","PSYCCA","Psyche casta","Lepidoptera","Psychidae","Psyche","casta",,NULL,"Common Bagworm Moth","yes",,"0.00","1","1","Contaminant, grass, moss, lichen feeder (DLW)"
+"371","PUBILA","Pubitelphusa latifasciella BOLD:AAC8095","Lepidoptera","Gelechiidae","Pubitelphusa","latifasciella",,"BOLD:AAC8095",,"yes",,"214.28","6","5",NULL
+"372","PYREN1","Pyreferra n. sp. BOLD:AAD2863","Lepidoptera","Noctuidae","Pyreferra","n. sp. BOLD:AAD2863",,"BOLD:AAD2863",,"no",,"0.00","1","1",NULL
+"373","ZALEAE","Zale aeruginosa","Lepidoptera","Erebidae","Zale","aeruginosa",,NULL,"Green-dusted Zale ","no","no","0.00","1","1",NULL
+"374","DICHVE","Dichomeris ventrellus","Lepidoptera","Gelechiidae","Dichomeris","ventrellus",,NULL,,"yes",NULL,"0.00","1","1",NULL
+"375","GELEIO","Gelechioidea","Lepidoptera",,,,,NULL,,"yes",NULL,NULL,NULL,NULL,NULL
+"378","PLAGSE","Plagodis serinaria","Lepidoptera","Geometridae","Plagodis","serinaria",,NULL,"Lemon Plagodis","no","no","0.00","1","1",NULL
+"379","EUPIFL","Eupithecia fletcherata BOLD:AAA9177","Lepidoptera","Geometridae","Eupithecia","fletcherata",,"BOLD:AAA9177","Fletcher's Larch Looper","no",NULL,"0.00","2","1","Alder, Larch, Spruce"
+"380","EUPIVI","Eupithecia virgaureata","Lepidoptera","Geometridae","Eupithecia","virgaureata",,NULL,"Golden-rod Pug","no",NULL,"0.00","1","1","Goldenrod & ragwort flowers"
+"382","CATOFL","Catocala flebilis","Lepidoptera","Erebidae","Catocala","flebilis",,NULL,"Mourning underwing","no","yes","0.00","1","1",NULL
+"383","CATOPA","Catocala palaeogama","Lepidoptera","Erebidae","Catocala","palaeogama",,NULL,"Oldwife Underwing","no","yes","0.00","1","1","Carya and Juglans"
+"385","LITHQU","Lithophane querquera","Lepidoptera","Noctuidae","Lithophane","querquera",,NULL,"Shivering Pinion","no",NULL,NULL,NULL,NULL,NULL
+"386","PANTHE","Pantheinae","Lepidoptera","Noctuidae",,,,NULL,,"no",NULL,NULL,NULL,NULL,NULL
